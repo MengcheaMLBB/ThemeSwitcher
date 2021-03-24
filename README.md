@@ -1,6 +1,6 @@
 # ThemeSwitcher
 
-To get a Git project into your build:
+To use this in your application, Please follow steps below.
 
 Step 1. Add the JitPack repository to your build file
 
