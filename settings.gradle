@@ -1,0 +1,3 @@
+include ':theme_switcher'
+include ':app'
+rootProject.name = "MyLibrary"
