@@ -19,6 +19,6 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.github.User:Repo:Tag'
+    implementation 'com.github.MengcheaUchiha:ThemeSwitcher:1.0.0'
 }
 ```
