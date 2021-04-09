@@ -1,5 +1,7 @@
 # ThemeSwitcher
 
+![Example](https://raw.github.com/MengcheaUchiha/ThemeSwitcher/master/example.gif?raw=true)
+
 To use this in your application, Please follow steps below.
 
 **Step 1**. Add the JitPack repository to your build file
