@@ -19,6 +19,6 @@ allprojects {
 
 ```
 dependencies {
-    implementation 'com.github.MengcheaUchiha:ThemeSwitcher:1.0.0'
+    implementation 'com.github.MengcheaUchiha:ThemeSwitcher:$latest_version'
 }
 ```
