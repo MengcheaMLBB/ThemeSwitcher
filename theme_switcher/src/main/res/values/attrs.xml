@@ -2,5 +2,7 @@
 <resources>
     <declare-styleable name="ThemeSwitcher">
         <attr name="themeStyle" format="integer"/>
+        <attr name="trackDayColor" format="color"/>
+        <attr name="trackNightColor" format="color"/>
     </declare-styleable>
 </resources>

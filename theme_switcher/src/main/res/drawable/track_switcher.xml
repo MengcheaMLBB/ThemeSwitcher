@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:enterFadeDuration="600"
+    android:exitFadeDuration="600">
 
     <item android:state_checked="true">
         <shape android:shape="rectangle">
             <corners
-                android:radius="32dp">
+                android:radius="100dp">
             </corners>
             <solid android:color="@color/color_dark">
             </solid>
@@ -14,7 +16,7 @@
     <item android:state_checked="false">
         <shape android:shape="rectangle">
             <corners
-                android:radius="32dp">
+                android:radius="100dp">
             </corners>
             <solid android:color="@color/color_light">
             </solid>
